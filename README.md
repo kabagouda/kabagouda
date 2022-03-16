@@ -1,4 +1,4 @@
-### Hey, I'm [Kabirou Agouda !](https://www.kabagouda.com) 👋 <a align="left">
+### Hey, I'm [Kab Agouda !](https://www.kabagouda.com) 👋 <a align="left">
 
 💡 Thinking in Dart , Python or Rust 🚀💙.    
   Open-source contributor for [Dart](https://dart.dev) , [Binder](https://binder.kabagouda.com) , [Flutter](https:flutter.dev) , [Firebase](https://firebase.google.com/) , [Rust](https://www.rust-lang.org) , [Python](https://www.python.org/) , [Tensorflow](https://www.tensorflow.org/) etc ...   
