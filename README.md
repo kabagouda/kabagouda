@@ -6,8 +6,8 @@
   
 - 🔭 I’m currently working on [`Binder`](https://www.binder.kabagouda.com) 🚀💙
 - 🌱 I’m currently trying to create my own blockchain .
-- 👯 I am looking to collaborate on a mobile app , website , blockchain , machine learning , deep learning or another programming project . Or if you are looking for a partner for your next revolutionary startup , Just contact me ✌😁
-- 🤔 Actually , I am looking for help 🙏 to find a  **100% remote Job** Or just a Freelance project as **Flutter/Dart developer**. Please share my [profil](https://www.kabagouda.com) ✨.
+- 👯 I am looking to collaborate on a mobile app , website , blockchain , machine learning , deep learning or another programming project . Or if you are looking for a partner, Just contact me ✌😁
+- 🤔 Actually , I am looking for a  **100% remote Job** Or just a Freelance project as **Flutter/Dart developer**. Please share my [profil](https://www.kabagouda.com) ✨.
 - 💬  Ask me anything about Dart , Python and Rust and I will gladly answer! 😎
 - 📫 How to reach me: [Twitter](https://twitter.com/kabagouda/), [Linkedin](https://www.linkedin.com/in/kabagouda/) , [Personal website](https://www.kabagouda.com)
 - 😄 Pronouns: He/Him
