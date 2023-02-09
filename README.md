@@ -4,10 +4,10 @@
   📍 I am currently exploring everything from mobile application , web to Artificial intelligence 🌐🚀 .
 <br/>  
 
-![status](https://nocache.advaith.workers.dev?url=https://img.shields.io/endpoint?url=https://dev.discordprofiles.me/api/badge/status/276544649148235776?simple=true)
-![playing](https://nocache.advaith.workers.dev?url=https://img.shields.io/endpoint?url=https://dev.discordprofiles.me/api/badge/playing/276544649148235776)
-![vscode](https://nocache.advaith.workers.dev?url=https://img.shields.io/endpoint?url=https://dev.discordprofiles.me/api/badge/vscode/276544649148235776)
-[![spotify](https://nocache.advaith.workers.dev?url=https://img.shields.io/endpoint?url=https://dev.discordprofiles.me/api/badge/spotify/276544649148235776)](https://dev.discordprofiles.me/openspotify/276544649148235776)
+![status](https://nocache.advaith.workers.dev?url=https://img.shields.io/endpoint?url=https://dev.discordprofiles.me/api/badge/status/659826896099344416?simple=true)
+![playing](https://nocache.advaith.workers.dev?url=https://img.shields.io/endpoint?url=https://dev.discordprofiles.me/api/badge/playing/659826896099344416)
+![vscode](https://nocache.advaith.workers.dev?url=https://img.shields.io/endpoint?url=https://dev.discordprofiles.me/api/badge/vscode/659826896099344416)
+[![spotify](https://nocache.advaith.workers.dev?url=https://img.shields.io/endpoint?url=https://dev.discordprofiles.me/api/badge/spotify/659826896099344416)](https://dev.discordprofiles.me/openspotify/659826896099344416)
  <br/> 
  ### Follow me :
 <a href="https://www.twitter.com/kabagouda" target="_blank"><img src="https://img.shields.io/badge/Twitter-%231877F2.svg?&style=flat-square&logo=twitter&logoColor=white" alt="Twitter"></a>
@@ -19,3 +19,6 @@
 <br/>
  <br/>
 <img align="left" src="https://github-readme-stats.vercel.app/api/?username=kabagouda&count_private=true&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515"/>
+<br/>
+<br/>
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=25iykv38dv6ru4fcnxjghp6yx&cover_image=true&theme=default&show_offline=true&background_color=121212&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=25iykv38dv6ru4fcnxjghp6yx&redirect=true)
