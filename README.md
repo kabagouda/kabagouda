@@ -17,8 +17,11 @@
 
 [![My Skills](https://skillicons.dev/icons?i=androidstudio,appwrite,bootstrap,css,dart,fastapi,flutter,figma,firebase,git,html,js,md,postgres,postman,py,pytorch,stackoverflow,supabase,tensorflow,vscode,vue)](https://kabagouda.com)
 <br/>
- <br/>
+<br/>
+  
 <img align="left" src="https://github-readme-stats.vercel.app/api/?username=kabagouda&count_private=true&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515"/>
+
+<!-- [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=25iykv38dv6ru4fcnxjghp6yx&cover_image=false&theme=default&show_offline=true&background_color=121212&bar_color_cover=true)](https://spotify-github-profile.vercel.app/api/view?uid=25iykv38dv6ru4fcnxjghp6yx&redirect=true) -->
+  
 <br/>
-<br/>
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=25iykv38dv6ru4fcnxjghp6yx&cover_image=true&theme=default&show_offline=true&background_color=121212&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=25iykv38dv6ru4fcnxjghp6yx&redirect=true)
+ 
