@@ -1,8 +1,11 @@
-### Hey, I'm [Kab Agouda !](https://www.kabagouda.com) 👋 <a align="left">
-  💡 I work on random projects in my free time 🚀💙.    
+### Hey, I'm [Kab Agouda !](https://www.kabagouda.com) 👋 , The Golden boy <a align="left">
+  Passionate about engineering, art and making a difference.
+Life is too short, so let's make it golden.
+<!--   💡 I work on random projects in my free time 🚀💙.    
+
   
    📍 I am currently exploring everything from mobile application , web to Artificial intelligence 🌐🚀 .
-<br/>  
+<br/>   -->
 
 <!-- ![status](https://nocache.advaith.workers.dev?url=https://img.shields.io/endpoint?url=https://dev.discordprofiles.me/api/badge/status/659826896099344416?simple=true)
 ![playing](https://nocache.advaith.workers.dev?url=https://img.shields.io/endpoint?url=https://dev.discordprofiles.me/api/badge/playing/659826896099344416)
