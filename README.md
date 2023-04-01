@@ -1,6 +1,6 @@
 ### Hey, I'm [Kab Agouda !](https://www.kabagouda.com) 👋 , The Golden boy <a align="left">
   Passionate about engineering, art and making a difference.
-Life is too short, so let's make it golden.
+<!-- Life is too short, so let's make it golden. -->
 <!--   💡 I work on random projects in my free time 🚀💙.    
 
   
