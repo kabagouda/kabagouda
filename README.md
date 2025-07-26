@@ -1,11 +1,12 @@
-### Hey, I'm [Kab Agouda !](https://www.kabagouda.com) 👋 , The Golden boy <a align="left">
-  Passionate about engineering, art and making a difference.
+### Hey, I'm [Kab Agouda !](https://www.kabagouda.com) 👋, 
+  Passionate about 👨‍💻.
 <!-- Life is too short, so let's make it golden. -->
 <!--   💡 I work on random projects in my free time 🚀💙.    
 
   
    📍 I am currently exploring everything from mobile application , web to Artificial intelligence 🌐🚀 .
 <br/>   -->
+
 
 <!-- ![status](https://nocache.advaith.workers.dev?url=https://img.shields.io/endpoint?url=https://dev.discordprofiles.me/api/badge/status/659826896099344416?simple=true)
 ![playing](https://nocache.advaith.workers.dev?url=https://img.shields.io/endpoint?url=https://dev.discordprofiles.me/api/badge/playing/659826896099344416)
@@ -21,6 +22,7 @@
 [![My Skills](https://skillicons.dev/icons?i=androidstudio,appwrite,bootstrap,css,dart,fastapi,flutter,figma,firebase,git,html,js,md,postgres,postman,py,pytorch,stackoverflow,supabase,tensorflow,vscode,vue)](https://kabagouda.com)
 <br/>
 <br/> -->
+
   
 <img align="left" src="https://github-readme-stats.vercel.app/api/?username=kabagouda&count_private=true&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515"/>
 
@@ -28,3 +30,5 @@
   
 <br/>
  
+
+```
