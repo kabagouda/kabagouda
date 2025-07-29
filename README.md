@@ -6,7 +6,7 @@
 
 ## Languages & Skills
 
-[![My Skills](https://skillicons.dev/icons?i=rust,c,tauri,webassembly,react,nextjs,dart,flutter,py,fastapi,pytorch,aws,postgresql,ai)](https://kabagouda.com)
+[![My Skills](https://skillicons.dev/icons?i=rust,c,tauri,webassembly,raspberrypi,arduino,threejs,react,nextjs,dart,flutter,py,fastapi,pytorch,aws,postgresql,ai)](https://kabagouda.com)
 <br/>
  ### Follow me :
 <a href="https://www.twitter.com/kabagouda" target="_blank"><img src="https://img.shields.io/badge/Twitter-%231877F2.svg?&style=flat-square&logo=twitter&logoColor=white" alt="Twitter"></a>
